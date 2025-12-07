@@ -9,7 +9,6 @@ A modern, high-performance Pokémon application built with **Next.js**, **Tailwi
 * **Live Search:** Instant, debounced search filtering for specific Pokémon.
 * **Type Filtering:** Filter Pokémon by element type (Fire, Water, Grass, etc.) with a visual scroll bar.
 * **My Team (Favorites):** Save your favorite Pokémon to your personal team (persisted in LocalStorage).
-* **Dark Mode:** Fully responsive Light/Dark theme toggle with system preference detection.
 * **Modern UI:** Glassmorphism headers, gradient backgrounds, and skeleton loading states.
 * **Smooth Animations:** Powered by Framer Motion for modal transitions and hover effects.
 * **Detail View:** Interactive modal showing high-res artwork and base stats (HP, Attack, Speed, etc.).
