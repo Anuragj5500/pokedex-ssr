@@ -22,15 +22,3 @@ A modern, high-performance Pokémon application built with **Next.js**, **Tailwi
 * **Backend/Auth:** [Firebase Authentication](https://firebase.google.com/)
 * **Data Source:** [PokéAPI](https://pokeapi.co/)
 * **Font:** Google Fonts (Poppins)
-
-* pokedex-ssr/
-├── src/
-│   ├── app/
-│   │   ├── globals.css      # Tailwind imports & custom scrollbar styles
-│   │   ├── layout.js        # Root layout, Fonts, Metadata
-│   │   └── page.js          # SSR Entry point
-│   └── components/
-│       └── PokedexClient.jsx # Main Client Logic (UI, State, Auth, Search)
-├── public/                  # Static assets
-├── tailwind.config.js       # Tailwind & Dark Mode configuration
-└── package.json             # Dependencies
